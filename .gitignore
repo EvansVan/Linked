@@ -1,0 +1,14 @@
+bin/
+lib/
+Linked/lib64/
+include/
+share/
+*.pyc
+*.cfg
+__pycache__/
+.env
+AgentPorti/src/evansai.ipynb
+AgentPorti/test/test.py
+AgentPorti/test/test1.py
+api.txt
+*test*
